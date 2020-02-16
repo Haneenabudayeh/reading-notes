@@ -10,5 +10,5 @@
 |class | link |
 |------| -----|
 |class01|[class01](https://haneenabudayeh.github.io/reading-notes/class01)|
-
+|class02|[class02](https://haneenabudayeh.github.io/reading-notes/)|
 ![html photo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh-IEn1DUnun4-iR_M_d5HnoRzNrNNPjGDJG5iMUw2Ii9eZUGI)
