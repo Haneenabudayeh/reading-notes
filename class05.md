@@ -7,7 +7,7 @@
 
 ### The src attribute specifies the URL (web address) of the image:
 
-<img src="url">
+![html](https://khamsat.hsoubcdn.com/images/services/1096669/7d0c952154e5541a9d1768c029a1ebc0.jpg)
 
 
 ## Images can improve the design and the appearance of a web page.
