@@ -26,7 +26,7 @@ To access a property of this object, the object name is followed by a dot (the p
 ![object model](https://mobile.htmlgoodies.com/imagesvr_ce/8103/JSModels_Fig01_dom.JPG)
 
 
-## how we can select element nodes: (Links to an external site.)
+## how we can select element nodes: 
 You can select thems by their:
 - ID.
 - class.
