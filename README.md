@@ -13,6 +13,10 @@
 |class02|[class02](https://haneenabudayeh.github.io/reading-notes/class02)|
 |class03|[class03](https://haneenabudayeh.github.io/reading-notes/class03)|
 |class04|[class04](https://haneenabudayeh.github.io/reading-notes/class04)|
+|class05|[class05](https://haneenabudayeh.github.io/reading-notes/class05)|
+|class06|[class06](https://haneenabudayeh.github.io/reading-notes/class06)|
+|class07|[class07]()
+
 
 
 ![html photo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh-IEn1DUnun4-iR_M_d5HnoRzNrNNPjGDJG5iMUw2Ii9eZUGI)
