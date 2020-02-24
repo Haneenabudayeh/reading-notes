@@ -15,7 +15,7 @@
 |class04|[class04](https://haneenabudayeh.github.io/reading-notes/class04)|
 |class05|[class05](https://haneenabudayeh.github.io/reading-notes/class05)|
 |class06|[class06](https://haneenabudayeh.github.io/reading-notes/class06)|
-|class07|[class07]()
+|class07|[class07](https://haneenabudayeh.github.io/reading-notes/class07)|
 
 
 
