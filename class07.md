@@ -29,8 +29,8 @@ Each table row is defined with the *tr8 tag.
  4. Left-align Headings
  5. Adding Border Spacing
 
- # ch3:
- ## JavaScript Methods
+ ## ch3:
+ ### JavaScript Methods
   JavaScript methods are actions that can be performed on objects.
 
  A JavaScript method is a property containing a function definition.
