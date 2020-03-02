@@ -20,6 +20,9 @@
 |class09|[class09](https://haneenabudayeh.github.io/reading-notes/class09)|
 |class10|[class10](https://haneenabudayeh.github.io/reading-notes/class10)|
 |class11|[class11](https://haneenabudayeh.github.io/reading-notes/class11)|
+|class11|[class11](https://haneenabudayeh.github.io/reading-notes/class11)|
+|class12|[class12](https://haneenabudayeh.github.io/reading-notes/class12)|
+|class13|[class13](https://haneenabudayeh.github.io/reading-notes/class13)|
 
 
 
